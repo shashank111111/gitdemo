@@ -7,6 +7,8 @@ public class PS {
 	{ 
 		System.out.println("dfdgdg");
 		System.out.println("git");
+		System.out.println("gith");
+
 	}
 	@AfterMethod
 	public void pq()
