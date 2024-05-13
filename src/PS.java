@@ -6,6 +6,7 @@ public class PS {
 	public void DO() 
 	{ 
 		System.out.println("dfdgdg");
+		System.out.println("git");
 	}
 	@AfterMethod
 	public void pq()
